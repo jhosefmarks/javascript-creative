@@ -6,7 +6,7 @@ const settings = {
 
 const sketch = () => {
   return ({ context, width, height }) => {
-    context.fillStyle = 'black';
+    context.fillStyle = Math.random() > 0.5 ? 'black' : 'white';
     context.fillRect(0, 0, width, height);
     
     context.lineWidth = width * 0.01;
