@@ -23,5 +23,6 @@ canvas-sketch index.js --open
 - https://www.w3schools.com/tags/ref_canvas.asp
 - https://github.com/mattdesl/canvas-sketch
 - https://github.com/mattdesl/canvas-sketch-util
+- https://cocopon.github.io/tweakpane/
 - https://coolors.co/
 - https://cssgradient.io/
