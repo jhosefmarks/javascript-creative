@@ -5,7 +5,7 @@ Open a folder and execute:
 ```
 cd <project>
 npm install
-canvas-sketch <project>.js --open
+canvas-sketch index.js --open
 ```
 
 Like this:
@@ -13,9 +13,9 @@ Like this:
 ```
 cd project02
 npm install
-canvas-sketch project02.js --open
+canvas-sketch index.js --open
 ```
 
-> You need canvas-sketch intalled globaly.
+> You need canvas-sketch intalled globally.
 
 
